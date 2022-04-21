@@ -17,7 +17,7 @@ export default {
   },
   target: 'static',
   router: {
-    base: '/markos/'
+    base: '/ichionid.github.io/'
   },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
